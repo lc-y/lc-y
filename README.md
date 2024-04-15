@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">🤙 如何找到我？</h3>
 <p align="left">
+  关注公众号【西瓜的数据世界】，第一手掌握数据分析知识与技巧！！
 </p>
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/lc-y/lc-y/blob/main/wechatcode.jpg" alt="My WeChat official account">
