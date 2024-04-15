@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">🔭 技术栈</h3>
+
 - Python数据分析及可视化、根据数据进行合理的分析及报告输出
 - Python爬虫、根据需求指定合理化的采集方法
 - Python深度学习与大模型开发
