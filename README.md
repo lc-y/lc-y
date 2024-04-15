@@ -1,7 +1,11 @@
 <h1 align="left">Hi 👋, I'm 西瓜</h1>
 <h3 align="left">一位想要成为数据分析大佬的小男孩！</h3>
 
-<h2 align="left">技术栈</h2>
+<h3 align="left">🔭 技术栈</h2>
+- Python数据分析及可视化、根据数据进行合理的分析及报告输出
+- Python爬虫、根据需求指定合理化的采集方法
+- Python深度学习与大模型开发
+- Python知识分享及文档编写
 
 
 <!--
