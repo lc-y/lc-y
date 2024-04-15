@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm 西瓜</h1>
+<h2 align="left">Hi 👋, I'm 西瓜</h2>
 <h3 align="left">一位想要成为数据分析大佬的小男孩！</h3>
 
 <!--
