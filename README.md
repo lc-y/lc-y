@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm 西瓜</h1>
+<h3 align="center">一位想要成为数据分析大佬的小男孩！</h3>
 
 <!--
 **lc-y/lc-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">Hi 👋, I'm 西瓜</h1>
-<h3 align="center">一位想要成为数据分析大佬的小男孩！</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
