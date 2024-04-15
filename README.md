@@ -35,7 +35,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">📋 项目小览！</h3>
 
-1. [2022北京冬奥会奖牌榜可视化分析](https://www.heywhale.com/mw/project/62124fbe68364e0017a48a23)
+1. [2022北京冬奥会奖牌榜可视化分析](https://www.heywhale.com/mw/project/62124fbe68364e0017a48a23)--使用Pyecharts等可视化Python模块进行可视化分析
+2. [近年我国结离婚数据的可视化分析](https://www.heywhale.com/mw/project/657bfb240a5eaa38db9f0459)--使用Matplotlib可视化模块对我国近年结离婚数据进行分析
+3. [LightGBM+贝叶斯优化预测银行卡电信诈骗](https://www.heywhale.com/mw/project/62eba9e9dd8cd3138e76b6a9)--使用机器学习算法对模型进行构建及优化
+4. [使用XGBoost算法对信用卡交易进行诈骗预测](https://www.heywhale.com/mw/project/62bd3d81913a54a66019c1f8)--使用XGBoost算法对信用卡交易数据进行建模并预测诈骗交易情况
+5. [使用selenium爬取房天下gz二手房房源数据](https://www.heywhale.com/mw/project/6303b3bef31025b77778b948)--使用Selenium对gz二手房房源数据进行自动化采集的教程
+**更多数据分析及爬虫项目可移步我在【和鲸社区】中专栏阅读**👉[西瓜的数据研究院](https://www.heywhale.com/home/column/623c61fc74f0cb0017cce37a)
+
 
 <h3 align="left">⭐ Github Start</h3>
 <p>
