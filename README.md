@@ -1,13 +1,6 @@
 <h1 align="left">Hi 👋, I'm 西瓜</h1>
 <h3 align="left">一位想要成为数据分析大佬的小男孩！</h3>
 
-<h3 align="left">🔭 技术栈</h3>
-- Python数据分析及可视化、根据数据进行合理的分析及报告输出
-- Python爬虫、根据需求指定合理化的采集方法
-- Python深度学习与大模型开发
-- Python知识分享及文档编写
-
-
 <!--
 **lc-y/lc-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">🔭 技术栈</h3>
+- Python数据分析及可视化、根据数据进行合理的分析及报告输出
+- Python爬虫、根据需求指定合理化的采集方法
+- Python深度学习与大模型开发
+- Python知识分享及文档编写
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
