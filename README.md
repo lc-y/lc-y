@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-y&show_icons=true&locale=en" alt="lc-y" /></p>
+<h3 align="left">Github Start</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-y&show_icons=true&locale=en" alt="lc-y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lc-y&" alt="lc-y" /></p>
 
