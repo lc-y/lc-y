@@ -33,6 +33,10 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
 
+<h3 align="left">📋 项目小览！</h3>
+
+1. [2022北京冬奥会奖牌榜可视化分析](https://www.heywhale.com/mw/project/62124fbe68364e0017a48a23)
+
 <h3 align="left">⭐ Github Start</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-y&show_icons=true&locale=en" alt="lc-y" />
