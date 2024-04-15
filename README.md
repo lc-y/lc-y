@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm 西瓜</h1>
-<h3 align="center">一位想要成为数据分析大佬的小男孩！</h3>
+<h1 align="left">Hi 👋, I'm 西瓜</h1>
+<h3 align="left">一位想要成为数据分析大佬的小男孩！</h3>
+
+<h2 align="left">技术栈</h2>
+
 
 <!--
 **lc-y/lc-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +23,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
