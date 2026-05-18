@@ -34,15 +34,6 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 </p>
 
-
-**更多数据分析及爬虫项目可移步我在【和鲸社区】中专栏阅读**👉[西瓜的数据研究院](https://www.heywhale.com/home/column/623c61fc74f0cb0017cce37a)
-
-
-<h3 align="left">⭐ Github Start</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lc-y&show_icons=true&locale=en" alt="lc-y" />
-</p>
-
 <h3 align="left">🤙 如何找到我？</h3>
 <p align="left">
   关注公众号【西瓜的数据世界】，第一手掌握数据分析知识与技巧！！
